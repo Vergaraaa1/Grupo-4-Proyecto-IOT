@@ -1,7 +1,7 @@
 Grupo 4
-Sebastian vergara 
-Pedro alexandroff
-daniel lira dlira018@gmail.com
+Sebastian Vergara St.vergarag@gmail.com
+Pedro Alexandroff
+daniel Lira dlira018@gmail.com
 
 lista de sensores ocupados:
 temperatura humedad
